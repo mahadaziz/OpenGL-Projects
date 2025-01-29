@@ -1,0 +1,59 @@
+﻿  main.cpp
+C:\Users\mahad\Documents\OpenGL\Assignment4\Assignment4\Vector3D.h(15,19): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\mahad\Documents\OpenGL\Assignment4\Assignment4\Vector3D.h(25,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahad\Documents\OpenGL\Assignment4\Assignment4\Vector3D.h(25,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahad\Documents\OpenGL\Assignment4\Assignment4\Camera.h(16,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mahad\Documents\OpenGL\Assignment4\Assignment4\Camera.h(18,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mahad\Documents\OpenGL\Assignment4\Assignment4\Camera.h(29,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mahad\Documents\OpenGL\Assignment4\Assignment4\Camera.h(29,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mahad\Documents\OpenGL\Assignment4\Assignment4\World.h(51,64): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mahad\Documents\OpenGL\Assignment4\Assignment4\World.h(51,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mahad\Documents\OpenGL\Assignment4\Assignment4\World.h(79,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mahad\Documents\OpenGL\Assignment4\Assignment4\World.h(79,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mahad\Documents\OpenGL\Assignment4\Assignment4\World.h(80,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mahad\Documents\OpenGL\Assignment4\Assignment4\World.h(80,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mahad\Documents\OpenGL\Assignment4\Assignment4\World.h(102,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mahad\Documents\OpenGL\Assignment4\Assignment4\World.h(102,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mahad\Documents\OpenGL\Assignment4\Assignment4\World.h(103,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mahad\Documents\OpenGL\Assignment4\Assignment4\World.h(103,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mahad\Documents\OpenGL\Assignment4\Assignment4\World.h(106,47): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mahad\Documents\OpenGL\Assignment4\Assignment4\World.h(124,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mahad\Documents\OpenGL\Assignment4\Assignment4\World.h(125,75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mahad\Documents\OpenGL\Assignment4\Assignment4\World.h(125,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mahad\Documents\OpenGL\Assignment4\Assignment4\main.cpp(16,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mahad\Documents\OpenGL\Assignment4\Assignment4\main.cpp(17,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mahad\Documents\OpenGL\Assignment4\Assignment4\main.cpp(18,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mahad\Documents\OpenGL\Assignment4\Assignment4\main.cpp(27,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xutility(254,82): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(2104,18): message : see reference to function template instantiation 'void std::_Construct_in_place<_Ty,Vector3D,double,std::shared_ptr<Diffuse>&>(_Ty &,Vector3D &&,double &&,std::shared_ptr<Diffuse> &) noexcept(false)' being compiled
+          with
+          [
+              _Ty=Sphere
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(2779,46): message : see reference to function template instantiation 'std::_Ref_count_obj2<Sphere>::_Ref_count_obj2<_Ty,double,std::shared_ptr<Diffuse>&>(_Ty &&,double &&,std::shared_ptr<Diffuse> &)' being compiled
+          with
+          [
+              _Ty=Vector3D
+          ]
+C:\Users\mahad\Documents\OpenGL\Assignment4\Assignment4\World.h(52,25): message : see reference to function template instantiation 'std::shared_ptr<Sphere> std::make_shared<Sphere,Vector3D,double,std::shared_ptr<Diffuse>&>(Vector3D &&,double &&,std::shared_ptr<Diffuse> &)' being compiled
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xutility(254,82): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(2104,18): message : see reference to function template instantiation 'void std::_Construct_in_place<_Ty,Vector3D,int,std::shared_ptr<Diffuse>&>(_Ty &,Vector3D &&,int &&,std::shared_ptr<Diffuse> &) noexcept(false)' being compiled
+          with
+          [
+              _Ty=Sphere
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(2779,46): message : see reference to function template instantiation 'std::_Ref_count_obj2<Sphere>::_Ref_count_obj2<_Ty,int,std::shared_ptr<Diffuse>&>(_Ty &&,int &&,std::shared_ptr<Diffuse> &)' being compiled
+          with
+          [
+              _Ty=Vector3D
+          ]
+C:\Users\mahad\Documents\OpenGL\Assignment4\Assignment4\World.h(56,25): message : see reference to function template instantiation 'std::shared_ptr<Sphere> std::make_shared<Sphere,Vector3D,int,std::shared_ptr<Diffuse>&>(Vector3D &&,int &&,std::shared_ptr<Diffuse> &)' being compiled
+  Assignment4.vcxproj -> C:\Users\mahad\Documents\OpenGL\Assignment4\x64\Debug\Assignment4.exe

@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\mahad\Documents\OpenGL\Assignment3\Assignment3\main.cpp(164,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mahad\Documents\OpenGL\Assignment3\Assignment3\main.cpp(165,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mahad\Documents\OpenGL\Assignment3\Assignment3\main.cpp(203,54): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Assignment3.vcxproj -> C:\Users\mahad\Documents\OpenGL\Assignment3\x64\Debug\Assignment3.exe
